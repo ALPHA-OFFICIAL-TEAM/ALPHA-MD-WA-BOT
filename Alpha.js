@@ -3868,10 +3868,9 @@ TOTAL USERS : ${Object.keys(global.db.data.users).length}
 case 'thanksto': case 'tqto': case 'tqtt':
 var unicorn = await getBuffer(picak+'Developer')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
-Thanks to Me ( DJ Thinura Jay)
-Alien-Alfa (For helping me to deploy qr in replit and answered my every doubts regard this project)
-DGXeon , NexusMw ( 95% Credits goes to them ,in this script)
-And Again Me (Thinura) 🎭 Who Helped Assemble This Script !!!`,unicorn, [{"urlButton": {"displayText": "YOUTUBE","url": `${myweb}`}},{"urlButton": {"displayText": "GIT HUB","url": `${sc}`}},{"quickReplyButton": {"displayText": "DONATE","id": 'donate'}},{"quickReplyButton": {"displayText": "OWNER","id": 'owner'}}] )
+Thanks to Me ( Achi Fernando)
+Alien-Alfa (For helping me to deploy qr in replit and answered my every doubts regard this project 95% Credits goes to them ,in this script)
+And Again Me (Achintha) 🎭 Who Helped Assemble This Script !!!`,unicorn, [{"urlButton": {"displayText": "YOUTUBE","url": `${myweb}`}},{"urlButton": {"displayText": "GIT HUB","url": `${sc}`}},{"quickReplyButton": {"displayText": "DONATE","id": 'donate'}},{"quickReplyButton": {"displayText": "OWNER","id": 'owner'}}] )
 break
             default:
                 if (budy.startsWith('=>')) {
