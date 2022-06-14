@@ -3453,7 +3453,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
 
-case 'mainmenu':
+case 'alpha':
 var unicorn = await getBuffer(picak+'Main Menu')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❦${botname} ❦━━⭓ 
