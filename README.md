@@ -6,7 +6,7 @@
 
 > <a href="https://www.youtube.com/watch?v=bA9bJRGV1h0&list=PLTJcrlHuBM2Xg1_B0v_XFIrj1Oju-oBwT"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-> [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [alphaxteam](github.com/ALPHA-OFFICIAL-TEAM)
+> [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [alphateam](github.com/ALPHA-OFFICIAL-TEAM)
 
 > Dont forget to give a star bro. IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
