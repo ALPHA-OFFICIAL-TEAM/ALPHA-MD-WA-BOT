@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://i.ibb.co/Hzy1S56/IMG-20220609-WA0091.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/f3b0b4e681583334b7330.jpg" alt="nz" width="350"/>
 </p>
 
-## QUEEN BIXBY MD WHATSAPP BOT
+## 🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭
 
-> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://www.youtube.com/watch?v=bA9bJRGV1h0&list=PLTJcrlHuBM2Xg1_B0v_XFIrj1Oju-oBwT"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-> [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [darkalphaxteam](github.com/darkalphaxteam)
+> [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [alphaxteam](github.com/ALPHA-OFFICIAL-TEAM)
 
 > Dont forget to give a star bro. IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
@@ -15,7 +15,7 @@
 
 </br>
 
-<a href="https://github.com/darklphaxteam"><img title="Author" src="https://img.shields.io/badge/Author-DARK_ALPHA-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/ALPHA-OFFICIAL-TEAM"><img title="Author" src="https://img.shields.io/badge/Author-Achi Fernando-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/darkalphaxteam/Queen-Bixby-MD/"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
@@ -38,7 +38,7 @@ Add FFmpeg to PATH environment variable
 <!-- Start via Heroku -->
 <b><details><summary>Start via Heroku</summary></b>
 
-* Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
+* Scan QR In Your Whatsapp From [Here](https://replit.com/@AchiFernando4/ALPHA-MD-V1?v=1)
 * Fork This Repo By Clicking [Here](https://github.com/darkalphaxteam/Queen-Bixby-MD/fork)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9471XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["+94784506970"]
+global.ownername = ["AchiFernando"]
 ```
 </details>
 
@@ -123,8 +123,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94711421243"><img src="https://img.shields.io/badge/Contact Thinura-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/94784506970"><img src="https://img.shields.io/badge/Contact Achi Fernando-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/c/AchiBrolk"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/AchiBrolk" /><br>
 </p>
 
 </details>
@@ -136,7 +136,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Alien-Alfa`](https://github.com/Alien-Alfa)
 * [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
 
 
 License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
