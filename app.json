@@ -2,8 +2,8 @@
   "name": " 🎭ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 ",
   "description": "Whatsapp MD  Bot build with nodejs",
   "repository": "https://telegra.ph/file/f3b0b4e681583334b7330.jpg",
-  "logo": "https://i.ibb.co/PcQYF7c/djt.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "logo": "https://telegra.ph/file/f3b0b4e681583334b7330.jpg",
+  "keywords": ["nodejs", "bot", "md whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
