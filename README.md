@@ -67,18 +67,6 @@ Add FFmpeg to PATH environment variable
 ```
 </details>
 
-<!-- Edit -->
-<b><details><summary>Edit settings.js</summary></b>
-```bash
-global.APIKeys = {
-	'https://zenzapis.xyz': 'YOURAPIKEY',
-}
-  
-global.owner = ["+94784506970"]
-global.ownername = ["AchiFernando"]
-```
-</details>
-
 
 <!-- 24hrs-->
 <b><details><summary>For 24 Hours Activation</summary></b>
@@ -124,7 +112,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/94784506970"><img src="https://img.shields.io/badge/Contact Achi Fernando-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/c/AchiBrolk"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/AchiBrolk" /><br>
+<a href="https://www.youtube.com/c/AchiBrolk"><img src="https://img.shields.io/badge/Subscribe ABLK STUDIO-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/AchiBrolk" /><br>
 </p>
 
 </details>
