@@ -200,11 +200,11 @@ module.exports = GojoMdNx = async (GojoMdNx, m, chatUpdate, store) => {
 	
 	//group target \\
 const reply = (teks) => {
-            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Qᴜᴇᴇɴ ʙɪxʙʏ`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/djt.jpg`),"sourceUrl": "https://telegra.ph/file/33d3f966368a28e47e183.png"}}}, { quoted: m})
+            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": `ᴀʟᴘʜᴀ ᴍᴅ-ʙᴏᴛ ᴇᴅɪᴛɪᴏɴ`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/djt.jpg`),"sourceUrl": "https://telegra.ph/file/4f593e87171591f123928.jpg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Qᴜᴇᴇɴ ʙɪxʙʏ `, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/djt.jpg`),"sourceUrl": "https://telegra.ph/file/33d3f966368a28e47e183.png"}}}, { quoted: m})
+            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ᴀʟᴘʜᴀ ᴍᴅ-ʙᴏᴛ ᴇᴅɪᴛɪᴏɴ`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/djt.jpg`),"sourceUrl": "https://telegra.ph/file/4f593e87171591f123928.jpg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
@@ -1714,8 +1714,8 @@ break
                 reply(`${GojoMdNx.user.name} Has Been Unmuted In This Group!`)
                 } else {
                  let buttons = [
-                        { buttonId: 'mute on', buttonText: { displayText: 'BIXBY MUTE' }, type: 1 },
-                        { buttonId: 'mute off', buttonText: { displayText: 'BIXBY UNMUTE' }, type: 1 }
+                        { buttonId: 'mute on', buttonText: { displayText: 'ALPHA MUTE' }, type: 1 },
+                        { buttonId: 'mute off', buttonText: { displayText: 'ALPHA UNMUTE' }, type: 1 }
                     ]
                     await GojoMdNx.sendButtonText(m.chat, buttons, `Mute Bot`, GojoMdNx.user.name, m)
                 }
@@ -1768,7 +1768,7 @@ break
                             }, {
                                 quickReplyButton: {
                                     displayText: 'MENU',
-                                    id: 'menu'
+                                    id: 'alpha'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1802,7 +1802,7 @@ break
                             }, {
                                 quickReplyButton: {
                                     displayText: 'MENU',
-                                    id: 'menu'
+                                    id: 'alpha'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3343,7 +3343,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 									{
 										"title": "Main Menu",
 										"description": "Displays The List Of Main Features",
-										"rowId": `${prefix}mainmenu`
+										"rowId": `${prefix}alpha`
 									}
 								]
 							},
@@ -3848,7 +3848,6 @@ break
                     image: fs.readFileSync('./GojoMedia/ttg.jpg'),
                     caption: `═══════════════════
      *🎭ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭* 
-   🎭  ALPHA MD BOT  INFO 🎭
 ═══════════════════
 RUNTIME : ${runtime(process.uptime())}
 BOT NAME : ${global.botname}
