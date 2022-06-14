@@ -123,7 +123,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 	
 
 <p align="center">
-    World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
+    World best English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
     <br>
         <a href="https://chat.whatsapp.com/EmxfOklzLVIIyDEKPx4IYj">Whatsapp Support Group 01</a> |
 	<a href="https://chat.whatsapp.com/KpBbjUuoKCE5DclK9lKdr0">Whatsapp Support Group 02</a> |
