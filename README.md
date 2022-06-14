@@ -82,6 +82,20 @@ Add FFmpeg to PATH environment variable
 > cd Gojo-Satoru
 > npm install
 ```
+	
+</details>
+
+<!-- Edit -->
+<b><details><summary>Edit settings.js</summary></b>
+```bash
+global.APIKeys = {
+	'https://zenzapis.xyz': 'YOURAPIKEY',
+}
+  
+global.owner = ["9471XXXXXX"]
+global.ownername = ["YourName"]
+```
+	
 </details>
 
 
@@ -95,7 +109,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details>
 
 ----
-
 
 <b><details><summary>Available Features</summary><br>
 	
