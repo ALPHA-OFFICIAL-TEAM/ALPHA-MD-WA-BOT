@@ -12,14 +12,14 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
+global.owner = ['254716637803']
+global.premium = ['254716637803']
+global.ownernomer = '254716637803'
+global.ownername = 'kingpin ali'
+global.botname = 'si mimi v1.0.0'
 global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.region = 'India, South India, Kerala'
+global.region = 'kenya, nairobi, Kenya'
 global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
 global.myweb = 'https://www.youtube.com/c/AchiBrolk'
 global.packname = 'ALPHA WA BOT MD'
@@ -29,7 +29,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    admin: 'This Feature Is Only For Admin idiot',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
